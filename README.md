@@ -180,6 +180,10 @@ Az alábbi ábra szerint épül fel az adatbázis. Íme az ER diagram.
 2. Microsoft Visual Studio 
 3. JetBrains Rider 
 4. DBeaver
+### Techstack
+1. React, WPF
+2. Express.js
+3. Postgresql
 ### Általános elvárások
 #### Szoftver 
 1. A projekt webes felülete bármely mai, modern böngészőben fut.  
