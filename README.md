@@ -106,37 +106,64 @@ Mind a webes, mind pedig az asztali alkalmazás UI reszponzív, akadálymentes.�
 A felhasználói felület mind a webes, mind az asztali alkalmazásban letisztult megjelenést mutat. A navigáció egyszerű a bal oldali menüszalaggal, ahol láthatjuk az adott pozíciónkat és almenüket.
 ### Megjelenítési javaslatok
 #### Webes felület
-<p style="float: left; max-width: 54%">
-	A weboldal a grafikon (chart) nézettel nyílik. Itt lehetőségünk van választani a valós vagy szimulált adatok használata között. Chart nézetben lehetőség az AI (kredit alapú tanácsadás) és a real-time (CoinMarketCap) adatok közti váltásra. Ingyenes csomagban korlátozott chart nézet (gyertya és vonal, maximum havi nézet), míg a pro előfizetés teljes funkcionalitást biztosít.
+
+<p>
+	<p align="left">
+		A weboldal a grafikon (chart) nézettel nyílik. Itt lehetőségünk van választani a valós vagy szimulált adatok használata között. Chart nézetben lehetőség az AI (kredit alapú tanácsadás) és a real-time (CoinMarketCap) adatok közti váltásra. Ingyenes csomagban korlátozott chart nézet (gyertya és vonal, maximum havi nézet), míg a pro előfizetés teljes funkcionalitást biztosít.
+	</p>
+	<img align="right" width="45%" alt="Chart nézet" src="https://github.com/user-attachments/assets/80b177c2-4ee0-48d9-8cf4-897ac88d0ee2" />
 </p>
-<p style="float: right; max-width: 45%">
-	<img alt="Chart nézet" src="https://github.com/user-attachments/assets/80b177c2-4ee0-48d9-8cf4-897ac88d0ee2" />
-</p>
-<p style="float: right; max-width: 54%">
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<p>
+<p align="right">
 	A bal oldali menüsávban kiválaszthatjuk a „Profil” lehetőséget, ahol a saját profilunkat tudjuk megtekinteni és szerkeszteni. Lehetőségünk van az alapcsomagon felüli funkcióók kiaknázására is.
 </p>
-<p style="float: left; max-width: 45%">
-	<img alt="Fiók" src="https://github.com/user-attachments/assets/ec08986d-6ea4-4c8c-8abf-bc07a1f7ab89" />
+<img align="left" width="45%" alt="Fiók" src="https://github.com/user-attachments/assets/ec08986d-6ea4-4c8c-8abf-bc07a1f7ab89" />
 </p>
-<p style="float: left; max-width: 54%">
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<p>
+<p align="left">
 	A profil alá tartozik a „Tárca” is, amely az adott eszközeinket mutatja. Eszközeink alatt megtekinthetjük a tranzakciós előzményeinket.
 </p>
-<p style="float: right; max-width: 45%">
-	<img alt="Wallet" src="https://github.com/user-attachments/assets/a0973b77-afad-46df-875f-dd51592acc7a" />
+<img align="right" width="45%" alt="Wallet" src="https://github.com/user-attachments/assets/a0973b77-afad-46df-875f-dd51592acc7a" />
 </p>
-
-<p style="float: right; max-width: 54%">
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<p>
+<p align="right">
 	A kereskedési felületen kiválaszthatjuk a kereskedés módját és az egyéb, a kereskedéshez nélkülözhetetlen beállításokat, mint valuta, összeg.
 </p>
-<p style="float: left; max-width: 45%">
-	<img alt="Coins" src="https://github.com/user-attachments/assets/dadeffdd-4d9d-48f6-acbb-d25434d4cdd2" />
+<img align="left" width="45%" alt="Coins" src="https://github.com/user-attachments/assets/dadeffdd-4d9d-48f6-acbb-d25434d4cdd2" />
 </p>
-
-<p style="float: left; max-width: 54%">
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<p>
+<p align="left">
 	A kereskedési felülethez hasonló módon álhatjuk át valutáinkat egy másikra.
 </p>
-<p style="float: right; max-width: 45%">
-	<img alt="Swap" src="https://github.com/user-attachments/assets/43c1c090-aadb-4191-9329-159f8e2be61b" />
+<img align="right" width="45%" alt="Swap" src="https://github.com/user-attachments/assets/43c1c090-aadb-4191-9329-159f8e2be61b" />
 </p>
 
 #### Asztali alkalmazás
